@@ -1,0 +1,11 @@
+/Users/chriscalso/c#/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.csprojResolveAssemblyReference.cache
+/Users/chriscalso/c#/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.csproj.CoreCompileInputs.cache
+/Users/chriscalso/c#/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.AssemblyInfoInputs.cache
+/Users/chriscalso/c#/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.AssemblyInfo.cs
+/Users/chriscalso/c#/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.deps.json
+/Users/chriscalso/c#/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.runtimeconfig.json
+/Users/chriscalso/c#/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.runtimeconfig.dev.json
+/Users/chriscalso/c#/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.dll
+/Users/chriscalso/c#/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.pdb
+/Users/chriscalso/c#/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.dll
+/Users/chriscalso/c#/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.pdb
